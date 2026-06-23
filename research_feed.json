@@ -1,0 +1,306 @@
+{
+  "generated_at": "2026-06-23T09:58:48Z",
+  "latest": {
+    "report": {
+      "cadence": "weekly",
+      "generated_at": "2026-06-22T21:34:17.597829Z",
+      "issue_number": 24
+    },
+    "period": {
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-20",
+      "prior_start_date": "2026-06-07",
+      "prior_end_date": "2026-06-13"
+    },
+    "kpis": {
+      "investments_dollars": {
+        "value": 17578626.44,
+        "prior_value": 5032589.27,
+        "wow_pct": 2.4929586932096295,
+        "format": "dollars"
+      },
+      "num_investors": {
+        "value": 1779.0,
+        "prior_value": 1975.0,
+        "wow_pct": -0.09924050632911392,
+        "format": "integer"
+      },
+      "median_valuation": {
+        "value": 60000000.0,
+        "prior_value": 8750000.0,
+        "wow_pct": 5.857142857142857,
+        "format": "dollars"
+      },
+      "active_platforms": {
+        "value": 14.0,
+        "prior_value": 16.0,
+        "wow_pct": -0.125,
+        "format": "integer"
+      },
+      "average_raise": {
+        "value": 697867.4075,
+        "prior_value": 251318.703333,
+        "wow_pct": 1.7768224101304473,
+        "format": "dollars"
+      },
+      "deals_closed": {
+        "value": 15.0,
+        "prior_value": 11.0,
+        "wow_pct": 0.36363636363636365,
+        "format": "integer"
+      },
+      "num_new_deals": {
+        "value": 16.0,
+        "prior_value": 26.0,
+        "wow_pct": -0.38461538461538464,
+        "format": "integer"
+      },
+      "post_revenue_deals": {
+        "value": 7.0,
+        "prior_value": 14.0,
+        "wow_pct": -0.5,
+        "format": "integer"
+      },
+      "active_deals": {
+        "value": 142.0,
+        "prior_value": 202.0,
+        "wow_pct": -0.297029702970297,
+        "format": "integer"
+      },
+      "success_rate": {
+        "value": 0.26667,
+        "prior_value": 0.54545,
+        "wow_pct": -0.5111009258410486,
+        "format": "percent"
+      }
+    },
+    "daily_commitments": [
+      {
+        "date": "2026-06-13",
+        "amount": 1075327.81,
+        "pct_change_dod": null
+      },
+      {
+        "date": "2026-06-14",
+        "amount": 6233138.85,
+        "pct_change_dod": 4.796501115320359
+      },
+      {
+        "date": "2026-06-15",
+        "amount": 163800.37,
+        "pct_change_dod": -0.9737210458579789
+      },
+      {
+        "date": "2026-06-16",
+        "amount": 547397.88,
+        "pct_change_dod": 2.3418598504997274
+      },
+      {
+        "date": "2026-06-17",
+        "amount": 578889.09,
+        "pct_change_dod": 0.057528922106895926
+      },
+      {
+        "date": "2026-06-19",
+        "amount": 8814792.98,
+        "pct_change_dod": 14.227084310744225
+      },
+      {
+        "date": "2026-06-20",
+        "amount": 1240607.27,
+        "pct_change_dod": -0.8592584904926491
+      }
+    ],
+    "daily_investors": [
+      {
+        "date": "2026-06-13",
+        "investors": 867,
+        "pct_change_dod": null
+      },
+      {
+        "date": "2026-06-14",
+        "investors": 113,
+        "pct_change_dod": -0.8696655132641292
+      },
+      {
+        "date": "2026-06-15",
+        "investors": 108,
+        "pct_change_dod": -0.04424778761061947
+      },
+      {
+        "date": "2026-06-16",
+        "investors": 258,
+        "pct_change_dod": 1.3888888888888888
+      },
+      {
+        "date": "2026-06-17",
+        "investors": 395,
+        "pct_change_dod": 0.5310077519379846
+      },
+      {
+        "date": "2026-06-19",
+        "investors": 552,
+        "pct_change_dod": 0.39746835443037976
+      },
+      {
+        "date": "2026-06-20",
+        "investors": 353,
+        "pct_change_dod": -0.3605072463768116
+      }
+    ],
+    "platforms": {
+      "by_investment_dollars": [
+        {
+          "name": "Equifundcfp",
+          "amount": 8600000.0,
+          "pct_share": 0.4892736998977431
+        },
+        {
+          "name": "Wefunder",
+          "amount": 7972249.0,
+          "pct_share": 0.45355950752745144
+        },
+        {
+          "name": "StartEngine",
+          "amount": 403703.74,
+          "pct_share": 0.0229676305270182
+        },
+        {
+          "name": "Republic",
+          "amount": 281275.0,
+          "pct_share": 0.01600237906264392
+        },
+        {
+          "name": "HoneyComb",
+          "amount": 142690.0,
+          "pct_share": 0.00811796095795453
+        }
+      ],
+      "by_offering_count": [
+        {
+          "name": "HoneyComb",
+          "count": 6,
+          "pct_share": 0.375
+        },
+        {
+          "name": "Wefunder",
+          "count": 3,
+          "pct_share": 0.1875
+        },
+        {
+          "name": "StartEngine",
+          "count": 3,
+          "pct_share": 0.1875
+        },
+        {
+          "name": "NetCapital Funding",
+          "count": 1,
+          "pct_share": 0.0625
+        },
+        {
+          "name": "Equifundcfp",
+          "count": 1,
+          "pct_share": 0.0625
+        }
+      ]
+    }
+  },
+  "context": {
+    "all_time_committed": 2894294709.26,
+    "ytd_committed": 150743138.76,
+    "issuer_count_to_date": 9033.0,
+    "platform_count_total": 181.0
+  },
+  "archive": [
+    {
+      "cadence": "weekly",
+      "issue_number": 24,
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-20",
+      "tier": "free",
+      "generated_at": "2026-06-22T21:34:17.597829Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "biweekly",
+      "issue_number": null,
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-20",
+      "tier": "pro",
+      "generated_at": "2026-06-22T21:40:21.528930Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "weekly",
+      "issue_number": 23,
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-13",
+      "tier": "free",
+      "generated_at": "2026-06-16T13:36:52.749088Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "weekly",
+      "issue_number": 22,
+      "start_date": "2026-05-31",
+      "end_date": "2026-06-06",
+      "tier": "free",
+      "generated_at": "2026-06-11T01:28:51.635793Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "biweekly",
+      "issue_number": null,
+      "start_date": "2026-05-24",
+      "end_date": "2026-06-06",
+      "tier": "pro",
+      "generated_at": "2026-06-11T01:49:44.769507Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "weekly",
+      "issue_number": 21,
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-30",
+      "tier": "free",
+      "generated_at": "2026-06-01T14:00:13.453613Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "weekly",
+      "issue_number": 20,
+      "start_date": "2026-05-17",
+      "end_date": "2026-05-23",
+      "tier": "free",
+      "generated_at": "2026-05-25T14:00:13.440125Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "biweekly",
+      "issue_number": null,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-23",
+      "tier": "pro",
+      "generated_at": "2026-05-26T17:25:30.936964Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "weekly",
+      "issue_number": 19,
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-16",
+      "tier": "free",
+      "generated_at": "2026-05-20T02:17:05.449524Z",
+      "pdf_url": null
+    },
+    {
+      "cadence": "biweekly",
+      "issue_number": null,
+      "start_date": "2026-04-26",
+      "end_date": "2026-05-09",
+      "tier": "pro",
+      "generated_at": "2026-05-22T18:15:38.072486Z",
+      "pdf_url": null
+    }
+  ]
+}
